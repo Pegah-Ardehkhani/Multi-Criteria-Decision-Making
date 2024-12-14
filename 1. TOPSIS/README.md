@@ -1,4 +1,4 @@
-# TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)
+# TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/blob/main/1.%20TOPSIS/TOPSIS.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/blob/main/1.%20TOPSIS/TOPSIS.ipynb)
 
 The **TOPSIS** (Technique for Order Preference by Similarity to Ideal Solution) method is a multi-criteria decision-making (MCDM) technique that helps evaluate and rank alternatives based on their proximity to an ideal solution. It is widely used for decision problems where several criteria must be considered simultaneously, often under conflicting requirements.
 
