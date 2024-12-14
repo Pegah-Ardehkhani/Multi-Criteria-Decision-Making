@@ -1,4 +1,4 @@
-# Multi-Criteria Decision Making (MCDM)
+# Multi-Criteria Decision Making (MCDM) ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Multi-Criteria-Decision-Making.svg)
 
 <p align="center"> 
   <img width="600" height="400" src="https://i.ytimg.com/vi/7OoKJHvsUbo/maxresdefault.jpg"> 
