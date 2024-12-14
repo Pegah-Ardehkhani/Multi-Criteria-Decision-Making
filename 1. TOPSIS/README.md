@@ -20,8 +20,6 @@ TOPSIS follows a systematic process to rank alternatives based on their distance
 
 6. **Rank the Alternatives**: Alternatives are ranked based on their relative closeness, where the higher the closeness, the better the alternative.
 
----
-
 ## Example: Step-by-Step Calculation
 
 Let's solve a small example step by step. Assume we have 3 alternatives $(A_1, A_2, A_3)$ and 3 criteria $(C_1, C_2, C_3)$. The decision matrix is as follows:
@@ -125,8 +123,6 @@ Based on the relative closeness, the rankings are:
 3. **$A2$** (0.28)
 
 Thus, the best alternative is **A3**, followed by **A1**, and the worst alternative is **A2**.
-
----
 
 ## How to Use the Code
 
