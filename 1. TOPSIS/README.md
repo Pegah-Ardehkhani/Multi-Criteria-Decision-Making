@@ -1,7 +1,5 @@
 # TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)
 
-## Overview
-
 The **TOPSIS** (Technique for Order Preference by Similarity to Ideal Solution) method is a multi-criteria decision-making (MCDM) technique that helps evaluate and rank alternatives based on their proximity to an ideal solution. It is widely used for decision problems where several criteria must be considered simultaneously, often under conflicting requirements.
 
 ### How TOPSIS Works:
