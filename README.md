@@ -1,1 +1,1 @@
-# Multi-Criteria-Decision-Making-MCDM-
+# Multi-Criteria Decision Making (MCDM)
