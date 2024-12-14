@@ -162,8 +162,6 @@ This will:
 4. Calculate the relative closeness and rank the alternatives.
 5. Plot the relative closeness and distances from the ideal and negative-ideal solutions.
 
----
-
 ## Conclusion
 
 TOPSIS is a powerful method for ranking alternatives in multi-criteria decision-making problems. By following the steps outlined above, you can easily apply this method to real-world decision problems and evaluate alternatives based on their proximity to an ideal solution. The provided code helps automate this process and visualize the results.
