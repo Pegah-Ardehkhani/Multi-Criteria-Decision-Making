@@ -1,1 +1,1 @@
-# AHP (Analytic Hierarchy Process)
+# AHP (Analytic Hierarchy Process) <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/blob/main/03.%20AHP/AHP.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/blob/main/03.%20AHP/AHP.ipynb)
