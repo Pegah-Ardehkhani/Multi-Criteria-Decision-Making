@@ -150,7 +150,7 @@ decision_matrix = [
 weights = [0.5, 0.3, 0.2]  # Criteria weights
 
 # Run TOPSIS
-topsis(decision_matrix, weights, plot=True)
+topsis(decision_matrix, weights, plot=True, verbose=True)
 ```
 
 This will:
