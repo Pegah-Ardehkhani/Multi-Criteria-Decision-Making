@@ -11,6 +11,7 @@ This repository provides various algorithms and methods for Multi-Criteria Decis
 - [01. TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/tree/main/01.%20TOPSIS)
 - [02. VIKOR (VlseKriterijumska Optimizacija I Kompromisno Resenje)](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/tree/main/02.%20VIKOR)
 - [03. AHP (Analytic Hierarchy Process)](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/tree/main/03.%20AHP)
+- [04. SAW (Simple Additive Weighting)](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/tree/main/04.%20SAW)
 
 ## Introduction
 
