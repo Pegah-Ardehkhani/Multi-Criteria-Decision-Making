@@ -1,7 +1,7 @@
 # Multi-Criteria Decision Making (MCDM) ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Multi-Criteria-Decision-Making.svg)
 
 <p align="center"> 
-  <img width="600" height="400" src="https://i.ytimg.com/vi/7OoKJHvsUbo/maxresdefault.jpg"> 
+  <img width="700" height="400" src="https://i.ytimg.com/vi/7OoKJHvsUbo/maxresdefault.jpg"> 
 </p>
 
 This repository provides various algorithms and methods for Multi-Criteria Decision Making (MCDM), which is a set of approaches used to evaluate and prioritize alternatives based on multiple, often conflicting, criteria. These methods are commonly used in fields such as business, engineering, economics, healthcare, and environmental management, where decisions need to account for various factors.
