@@ -27,7 +27,7 @@ This repository includes the following Multi-Criteria Decision Making methods:
  - VIKOR is a Multi-Criteria Decision Making method that seeks to find a compromise solution by ranking alternatives based on their proximity to the ideal solution, while considering the balance between the best and worst performances across all criteria.
 
 3. **AHP (Analytic Hierarchy Process)**
-   - A method that uses pairwise comparisons and a hierarchical structure to prioritize alternatives.
+ - A method that uses pairwise comparisons and a hierarchical structure to prioritize alternatives.
 
 1. **Weighted Sum Model (WSM)**
    - A linear aggregation method where alternatives are scored by summing the weighted values of each criterion.
