@@ -26,12 +26,11 @@ This repository includes the following Multi-Criteria Decision Making methods:
 2. **VIKOR (VlseKriterijumska Optimizacija I Kompromisno Resenje):**
  - VIKOR is a Multi-Criteria Decision Making method that seeks to find a compromise solution by ranking alternatives based on their proximity to the ideal solution, while considering the balance between the best and worst performances across all criteria.
 
+3. **AHP (Analytic Hierarchy Process)**
+   - A method that uses pairwise comparisons and a hierarchical structure to prioritize alternatives.
 
 1. **Weighted Sum Model (WSM)**
    - A linear aggregation method where alternatives are scored by summing the weighted values of each criterion.
-
-2. **Analytic Hierarchy Process (AHP)**
-   - A method that uses pairwise comparisons and a hierarchical structure to prioritize alternatives.
 
 4. **Elimination and Choice Translating Reality (ELECTRE)**
    - A family of methods used to solve multi-criteria decision problems by eliminating inferior alternatives.
@@ -41,9 +40,3 @@ This repository includes the following Multi-Criteria Decision Making methods:
 
 6. **Simple Additive Weighting (SAW)**
    - A method similar to WSM but with a focus on normalization of criteria values.
-
-7. **VIKOR (Vlse Kriterijumska Optimizacija Kompromisno Resenje)**
-   - A compromise ranking method that seeks to find the best compromise alternative.
-
-8. **Fuzzy MCDM**
-   - Adaptations of standard MCDM methods to handle uncertainty or imprecision in decision criteria.
