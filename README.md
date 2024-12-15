@@ -8,11 +8,13 @@ This repository provides various algorithms and methods for Multi-Criteria Decis
 
 ## Table of content ✍️
 
-- [01. TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/tree/main/01.%20TOPSIS)
+- [01. TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/tree/main/01.%20TOPSIS) <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/blob/main/01.%20TOPSIS/TOPSIS.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/blob/main/01.%20TOPSIS/TOPSIS.ipynb)
 - [02. VIKOR (VlseKriterijumska Optimizacija I Kompromisno Resenje)](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/tree/main/02.%20VIKOR)
 - [03. AHP (Analytic Hierarchy Process)](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/tree/main/03.%20AHP)
 - [04. SAW (Simple Additive Weighting)](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/tree/main/04.%20SAW)
 
+
+https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making/blob/main/01.%20TOPSIS/TOPSIS.ipynb
 ## Introduction
 
 Multi-Criteria Decision Making (MCDM) is essential when faced with decisions that involve multiple criteria, some of which may conflict with each other. This repository includes implementations of several popular MCDM techniques to help users systematically evaluate and rank alternative solutions based on multiple criteria.
