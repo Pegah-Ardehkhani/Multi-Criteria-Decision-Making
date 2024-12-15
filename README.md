@@ -20,19 +20,18 @@ The methods in this repository allow you to:
 
 This repository includes the following Multi-Criteria Decision Making methods:
 
-
-1. **Technique for Order Preference by Similarity to Ideal Solution (TOPSIS):**
-
+1. **TOPSIS (Technique for Order Preference by Similarity to Ideal Solution):**
  - A method that ranks alternatives based on their distance from an ideal solution (best case) and a negative-ideal solution (worst case), aiming to find the alternative closest to the ideal and farthest from the negative-ideal.
+
+2. **VIKOR (VlseKriterijumska Optimizacija I Kompromisno Resenje):**
+ - VIKOR is a Multi-Criteria Decision Making method that seeks to find a compromise solution by ranking alternatives based on their proximity to the ideal solution, while considering the balance between the best and worst performances across all criteria.
+
 
 1. **Weighted Sum Model (WSM)**
    - A linear aggregation method where alternatives are scored by summing the weighted values of each criterion.
 
 2. **Analytic Hierarchy Process (AHP)**
    - A method that uses pairwise comparisons and a hierarchical structure to prioritize alternatives.
-
-3. **Technique for Order Preference by Similarity to Ideal Solution (TOPSIS)**
-   - A method that evaluates alternatives by calculating their distance from an ideal and a negative-ideal solution.
 
 4. **Elimination and Choice Translating Reality (ELECTRE)**
    - A family of methods used to solve multi-criteria decision problems by eliminating inferior alternatives.
