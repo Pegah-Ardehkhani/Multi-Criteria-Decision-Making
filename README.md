@@ -39,11 +39,11 @@ Below are some commonly used MCDM methods:
 4. **SAW (Simple Additive Weighting)**
  - A method where alternatives are ranked by summing the weighted normalized values of each criterion, making it easy to apply and interpret.
    
-5. **WSM (Weighted Sum Model)**
+5. **WSM (Weighted Sum Model):**
    - A linear aggregation method where alternatives are scored by summing the weighted values of each criterion.
 
-6. **Elimination and Choice Translating Reality (ELECTRE)**
+6. **Elimination and Choice Translating Reality (ELECTRE):**
    - A family of methods used to solve multi-criteria decision problems by eliminating inferior alternatives.
 
-7. **PROMETHEE (Preference Ranking Organization Method for Enrichment Evaluations)**
+7. **PROMETHEE (Preference Ranking Organization Method for Enrichment Evaluations):**
    - A pairwise comparison method based on the preferences of decision-makers.
